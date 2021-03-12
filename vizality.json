@@ -1,5 +1,4 @@
 {
-  "pma": {
     "stc": "A simple plugin to make someone say shutthecord, or any message you like!",
     "stc_link": "https://github.com/kreat0/shutthecord",
     "stallmanvz": "Lets you send the Stallman copypasta with a custom word in place of Linux.",
@@ -116,5 +115,4 @@
     "discordnamebadges_themelink": "https://github.com/Discord-Theme-Addons/discord-name-badges",
     "roleinfo_link": "https://github.com/A-User-s-Discord-Plugins/role-info",
     "roleinfo": "Right click on a role to see a resumed information of the role permissions"
-  }
 }
